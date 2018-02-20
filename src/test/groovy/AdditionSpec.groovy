@@ -1,12 +1,11 @@
-import com.example.Addition
 import spock.lang.Specification;
 
 public class AdditionSpec extends Specification {
 
-    def addition;
+    def addition
 
     void setup(){
-        addition = new Addition();
+        addition = new Addition()
     }
 
     void "canary test"(){
