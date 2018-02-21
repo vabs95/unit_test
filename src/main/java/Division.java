@@ -7,12 +7,9 @@ public class Division {
     }
 
     void div(int a, int b) {
-//        try {
+
             System.out.println(a / b);
-//        } catch (ArithmeticException e) {
-//            System.out.println(e);
-//
-//        }
+
 
     }
 }

@@ -44,9 +44,4 @@ public class AdditionSpec extends Specification {
         0 | 0 || 0
     }
 
-    /*void "test addition of integer numbers"(){
-        setup: "setup details come here"
-        given: "an empty block"
-    }*/
-
 }

@@ -7,7 +7,7 @@ public class Subtraction {
         int a = 10;
         int b = 20;
         int sub = a - b;
-        System.out.println("The sum is " + sub);
+        System.out.println("The sub is " + sub);
     }
 
     int sub(int a, int b){
