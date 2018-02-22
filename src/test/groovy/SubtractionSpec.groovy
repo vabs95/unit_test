@@ -44,7 +44,7 @@ public class SubtractionSpec extends Specification{
         def b=Integer.valueOf(20)
 
         expect:
-        subtraction.sub_wrapper(b,a) == Integer.valueOf(10) // resulting error
+        subtraction.sub_wrapper(b,a) == Integer.valueOf(10) 
 
     }
 }
